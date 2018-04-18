@@ -35,7 +35,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 - poignées
 - attributs: fond/contour
 
-### blocs
+### blocs
 - bloc texte/image
 - notion: contenant - contenu
 
