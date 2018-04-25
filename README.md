@@ -20,22 +20,22 @@ https://unige.ch/dife/culture/cours/image/indesign
 - retrouver et ouvrir le fichier ✓
 
 ### prise en mains (les 2 !!!)
-- nouveau doc: papier/web
-- orientation
-- formats
+- nouveau doc: papier/web ✓
+- orientation ✓
+- formats ✓
 
 ### environnement de travail
 - zoom ✓
 - déplacement ✓
 - affichage
-- pallettes outils, fenêtres
+- pallettes outils, fenêtres ✓
 
 ### objet
 - sélection simple ✓
 - poignées ✓
 - attributs: fond/contour ✓
 
-### blocs
+### blocs
 - bloc texte/image ✓
 - notion: contenant - contenu ✓
 
@@ -50,9 +50,9 @@ https://unige.ch/dife/culture/cours/image/indesign
 - manipuler ✓
 
 ### saisie de texte
-- bloc: sélection contenant/contenu
-- copier-coller contenant/contenu
-- attributs de caractères/paragraphe de base
+- bloc: sélection contenant/contenu ✓
+- copier-coller contenant/contenu ✓
+- attributs de caractères/paragraphe de base ✓
 
 ### composition
 - texte
@@ -60,33 +60,33 @@ https://unige.ch/dife/culture/cours/image/indesign
 - couleur(s)
 
 ### enregistrement exportation
-- enregistrer .indd
-- exporter .pdf
+- enregistrer .indd ✓
+- exporter .pdf ✓
 
 
 2e session
 ===========================
 
 ### organiser les couleurs
-- nommer les nuances
-- consistance: couleurs identiques
-- sytèmes de couleurs: RVB, CMJN, PMS, …
-- couleurs mélangées / couleurs enregistrées
+- nommer les nuances ✓
+- consistance: couleurs identiques ✓
+- sytèmes de couleurs: RVB, CMJN, PMS, … ✓
+- couleurs mélangées / couleurs enregistrées ✓
 
 ### texte
-- importer texte / format de fichier
-- texte en excès
-- chaînage (afficher)
-- caractères invisibles
+- importer texte / format de fichier ✓
+- texte en excès ✓
+- chaînage (afficher) ✓
+- caractères invisibles ✓
 - feuilles de style (notions basiques)
 
 ### pages
-- règles et repères (commentés)
-- gabarit (template, style sheet)
-- marges
-- élements récurents
-- numéro de page
-- calques
+- règles et repères (commentés) ✓
+- gabarit (template, style sheet) ✓
+- marges ✓
+- élements récurents ✓
+- numéro de page ✓
+- calques ✓
 
 ### objets
 - polygones
@@ -102,7 +102,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 - performance d'affichage
 
 ### composition
-- miroir de page
+- miroir de page ✓
 - rappel couleur
 - textes à lire / à voir
 - niveaux de lecture
