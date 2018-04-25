@@ -1,5 +1,4 @@
-auteur: Julien Jespersen
-
+auteur: Julien.Jespersen@gmail.com
 date: 2018-03-30
 
 
@@ -14,11 +13,11 @@ https://unige.ch/dife/culture/cours/image/indesign
 =======================
 
 ### prérequis
-- connaissances de base d'un éditeur de texte (p.ex. MS Word)
-- nouveau fichier
-- écrire du texte
-- sauver le fichier
-- retrouver et ouvrir le fichier
+- connaissances de base d'un éditeur de texte (p.ex. MS Word) ✓
+- nouveau fichier ✓
+- écrire du texte ✓
+- sauver le fichier ✓
+- retrouver et ouvrir le fichier ✓
 
 ### prise en mains (les 2 !!!)
 - nouveau doc: papier/web
@@ -26,29 +25,29 @@ https://unige.ch/dife/culture/cours/image/indesign
 - formats
 
 ### environnement de travail
-- zoom
-- déplacement
+- zoom ✓
+- déplacement ✓
 - affichage
 - pallettes outils, fenêtres
 
 ### objet
-- sélection simple
-- poignées
-- attributs: fond/contour
+- sélection simple ✓
+- poignées ✓
+- attributs: fond/contour ✓
 
-### blocs
-- bloc texte/image
-- notion: contenant - contenu
+### blocs
+- bloc texte/image ✓
+- notion: contenant - contenu ✓
 
 ### agencement des blocs:
-- empilement
-- alignement
-- groupe
-- notion: sélection, sélection multiple et discontinue
+- empilement ✓
+- alignement ✓
+- groupe ✓
+- notion: sélection, sélection multiple et discontinue ✓
 
 ### images opérations basiques
-- importer
-- manipuler
+- importer ✓
+- manipuler ✓
 
 ### saisie de texte
 - bloc: sélection contenant/contenu
