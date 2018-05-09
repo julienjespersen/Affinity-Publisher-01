@@ -27,7 +27,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 ### environnement de travail
 - zoom ✓
 - déplacement ✓
-- affichage
+- affichage ✓
 - pallettes outils, fenêtres ✓
 
 ### objet
@@ -78,7 +78,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 - texte en excès ✓
 - chaînage (afficher) ✓
 - caractères invisibles ✓
-- feuilles de style (notions basiques)
+- feuilles de style (notions basiques) ✓
 
 ### pages
 - règles et repères (commentés) ✓
@@ -111,31 +111,31 @@ https://unige.ch/dife/culture/cours/image/indesign
 - temps
 
 ### enregistrement et exportation
-- assemblage (+ archive)
-- enregistrement .idml
-- exporter offset / web
+- assemblage (+ archive) ✓
+- enregistrement .idml ✓
+- exporter offset / web ✓
 
 
 3e session
 =====================
 
 ### théorie des couleurs
-- synthèse additive RGB / soustractive CMYK
+- synthèse additive RGB / soustractive CMYK ✓
 - couleurs visibles, pourquoi
 - symbolique des couleurs
 
 ### bloc de texte
 - attributs de bloc
-- habillage
+- habillage ✓
 - blocs dans le flux
 - tableau
 
 ### objet
 - dégradé
-- options de fusion
+- options de fusion ✓
 - effets
 - pipette
-- default aspect
+- default aspect ✓
 
 ### texte
 - famille de caractères (avec, sans sérif, …)
@@ -146,7 +146,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 ### images
 - notion: mode de l’image (raster, vectoriel)
 - encyclopaedia: format de fichier image
-- notion: compression (destructive, préservative)
+- notion: compression (destructive, préservative) ✓
 - notion: unité de mesure quantité information
 
 ### enregistrement exportation
@@ -165,7 +165,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 ### document
 - table des matières
 - numérotation section
-- notes en bas de pages / fin d'article
+- notes en bas de pages / fin d'article ✓
 
 ### images
 - couche alpha
@@ -173,9 +173,9 @@ https://unige.ch/dife/culture/cours/image/indesign
 
 ### automatisation production
 - mise à l'échelle de documents
-- document multi formats
+- document multi formats ✓
 - fusion des données
-- rechercher-remplacer
+- rechercher-remplacer ✓
 - variables de texte
 
 ### qualité
