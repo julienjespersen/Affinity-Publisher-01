@@ -89,16 +89,16 @@ https://unige.ch/dife/culture/cours/image/indesign
 - calques ✓
 
 ### objets
-- polygones
-- opérations booléennes
-- courbes de bézier (nœuds, splines)
+- polygones ✓
+- opérations booléennes ✓
+- courbes de bézier (nœuds, splines) ✓
 
 ### images
 - info fichiers liés
 - mode colorimétrique
 - résolution
-- chemin
-- mise à jour
+- chemin ✓
+- mise à jour ✓
 - performance d'affichage
 
 ### composition
@@ -127,7 +127,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 ### bloc de texte
 - attributs de bloc
 - habillage ✓
-- blocs dans le flux
+- blocs dans le flux ✓
 - tableau
 
 ### objet
@@ -138,20 +138,20 @@ https://unige.ch/dife/culture/cours/image/indesign
 - default aspect ✓
 
 ### texte
-- famille de caractères (avec, sans sérif, …)
+- famille de caractères (avec, sans sérif, …) ✓
 - césure et justification (basique)
-- feuilles de style (plus avancé)
-- importer texte / coller texte / importer styles
+- feuilles de style (plus avancé) ✓
+- importer texte / coller texte / importer styles ✓
 
 ### images
 - notion: mode de l’image (raster, vectoriel)
 - encyclopaedia: format de fichier image
 - notion: compression (destructive, préservative) ✓
-- notion: unité de mesure quantité information
+- notion: unité de mesure quantité information ✓
 
 ### enregistrement exportation
-- exportation .pdf (avancé)
-- exportation .png .jpg
+- exportation .pdf (avancé) ✓
+- exportation .png .jpg ✓
 
 
 4e session
@@ -160,7 +160,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 ### texte
 - justification (avancée)
 - veuves-orphelines
-- options d'enchaîenement
+- options d'enchaîenement ✓
 
 ### document
 - table des matières
@@ -183,7 +183,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 - taux d'encrage
 - encres
 - affichage en couleurs simulées
-- profils col.
+- profils col. ✓
 - dictionnaire de césure perso.
 - mono/bi chrome (duotone)
 
