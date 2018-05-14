@@ -10,51 +10,39 @@ https://unige.ch/dife/culture/cours/image/indesign
 Indesign Basics
 ============================================
 
-### 1.0.1
-
+### 1.0.1 introduction
 #### Opérations de bases
 - connaissances de base d'un éditeur de texte (p.ex. MS Word) ✓
 - nouveau fichier ✓
 - écrire du texte ✓
 - sauver le fichier ✓
 - retrouver et ouvrir le fichier ✓
-
 #### prise en mains (les 2 !!!)
 - nouveau doc: papier/web ✓
 - orientation ✓
 - formats ✓
-
 #### environnement de travail
 - zoom ✓
 - déplacement ✓
 - affichage ✓
 - pallettes outils, fenêtres ✓
-
 #### objet
 - sélection simple ✓
 - poignées ✓
 - attributs: fond/contour ✓
-
 #### blocs
 - bloc texte/image ✓
 - notion: contenant - contenu ✓
-
 #### agencement des blocs:
 - empilement ✓
 - alignement ✓
 - groupe ✓
 - notion: sélection, sélection multiple et discontinue ✓
-
 #### enregistrement exportation
 - enregistrer .indd ✓
 - exporter .pdf ✓
 
-### 1.0.2
-
-#### images opérations basiques
-- importer ✓
-- manipuler ✓
-
+### 1.0.2 composition
 #### saisie de texte
 - bloc: sélection contenant/contenu ✓
 - copier-coller contenant/contenu ✓
@@ -64,11 +52,9 @@ Indesign Basics
 - césure et justification (basique)
 - feuilles de style (plus avancé) ✓
 - importer texte / coller texte / importer styles ✓
-
-#### composition
-- texte
-- image ?
-- couleur(s)
+#### images opérations basiques
+- importer ✓
+- manipuler ✓
 
 #### organiser les couleurs
 - nommer les nuances ✓
@@ -85,7 +71,6 @@ Indesign Basics
 
 #### pages
 - règles et repères (commentés) ✓
-- gabarit (template, style sheet) ✓
 - marges ✓
 - élements récurents ✓
 - numéro de page ✓
@@ -119,7 +104,7 @@ Indesign Basics
 - exporter offset / web ✓
 
 
-### 1.0.3
+### 1.0.3 bonnes pratiques
 #### bloc de texte
 - attributs de bloc
 - habillage ✓
@@ -132,6 +117,8 @@ Indesign Basics
 - pipette
 - default aspect ✓
 
+- gabarit (template, style sheet) ✓
+
 #### enregistrement exportation
 - exportation .pdf (avancé) ✓
 - exportation .png .jpg ✓
@@ -140,7 +127,7 @@ Indesign Basics
 Indesign avancé
 ==========================
 
-### 2.0.1
+### 2.0.1 couleurs
 #### théorie des couleurs
 - synthèse additive RGB / soustractive CMYK ✓
 - couleurs visibles, pourquoi
@@ -152,10 +139,15 @@ Indesign avancé
 - notion: unité de mesure quantité information ✓
 
 
-### 2.0.2
+### 2.0.2 texte
 
 
-### 2.0.3
+### 2.0.3 illustration, composition
+
+#### composition
+- texte
+- image ?
+- couleur(s)
 
 #### texte
 - notes en bas de pages / fin d'article ✓
