@@ -3,16 +3,16 @@ auteur: Julien.Jespersen@gmail.com
 date: 2018-05-14
 
 
-description
-============================================
-
 Plan de cours sur **Adobe Indesign CS6**. Donné dans le cadre des Activités culturelles de l'Université de Genève.
 https://unige.ch/dife/culture/cours/image/indesign
 
 
-## Indesign Basic
+Indesign Basics
+============================================
 
 ### 1.0.1
+
+#### Opérations de bases
 - connaissances de base d'un éditeur de texte (p.ex. MS Word) ✓
 - nouveau fichier ✓
 - écrire du texte ✓
@@ -45,13 +45,9 @@ https://unige.ch/dife/culture/cours/image/indesign
 - groupe ✓
 - notion: sélection, sélection multiple et discontinue ✓
 
-
-
-
-### enregistrement exportation
+#### enregistrement exportation
 - enregistrer .indd ✓
 - exporter .pdf ✓
-
 
 ### 1.0.2
 
@@ -63,6 +59,11 @@ https://unige.ch/dife/culture/cours/image/indesign
 - bloc: sélection contenant/contenu ✓
 - copier-coller contenant/contenu ✓
 - attributs de caractères/paragraphe de base ✓
+#### texte
+- famille de caractères (avec, sans sérif, …) ✓
+- césure et justification (basique)
+- feuilles de style (plus avancé) ✓
+- importer texte / coller texte / importer styles ✓
 
 #### composition
 - texte
@@ -119,18 +120,11 @@ https://unige.ch/dife/culture/cours/image/indesign
 
 
 ### 1.0.3
-
-#### théorie des couleurs
-- synthèse additive RGB / soustractive CMYK ✓
-- couleurs visibles, pourquoi
-- symbolique des couleurs
-
 #### bloc de texte
 - attributs de bloc
 - habillage ✓
 - blocs dans le flux ✓
 - tableau
-
 #### objet
 - dégradé
 - options de fusion ✓
@@ -138,48 +132,48 @@ https://unige.ch/dife/culture/cours/image/indesign
 - pipette
 - default aspect ✓
 
-#### texte
-- famille de caractères (avec, sans sérif, …) ✓
-- césure et justification (basique)
-- feuilles de style (plus avancé) ✓
-- importer texte / coller texte / importer styles ✓
+#### enregistrement exportation
+- exportation .pdf (avancé) ✓
+- exportation .png .jpg ✓
 
+
+Indesign avancé
+==========================
+
+### 2.0.1
+#### théorie des couleurs
+- synthèse additive RGB / soustractive CMYK ✓
+- couleurs visibles, pourquoi
+- symbolique des couleurs
 #### images
 - notion: mode de l’image (raster, vectoriel)
 - encyclopaedia: format de fichier image
 - notion: compression (destructive, préservative) ✓
 - notion: unité de mesure quantité information ✓
 
-#### enregistrement exportation
-- exportation .pdf (avancé) ✓
-- exportation .png .jpg ✓
+
+### 2.0.2
 
 
-4e session
-==========================
+### 2.0.3
 
-### texte
-- justification (avancée)
-- veuves-orphelines
-- options d'enchaîenement ✓
-
-### document
-- table des matières
-- numérotation section
+#### texte
 - notes en bas de pages / fin d'article ✓
 
-### images
+
+#### images
 - couche alpha
 - habillage selon détourage (clipping path)
 
-### automatisation production
+#### automatisation production
 - mise à l'échelle de documents
 - document multi formats ✓
-- fusion des données
-- rechercher-remplacer ✓
-- variables de texte
 
-### qualité
+
+Indesign expert
+==========================
+
+#### qualité
 - contrôle en amont
 - taux d'encrage
 - encres
@@ -188,6 +182,18 @@ https://unige.ch/dife/culture/cours/image/indesign
 - dictionnaire de césure perso.
 - mono/bi chrome (duotone)
 
-### extra
-- questions
-- revisions
+#### automatisation production
+- fusion des données
+- rechercher-remplacer ✓
+- variables de texte
+
+#### document
+- table des matières
+- numérotation section
+- justification (avancée)
+- veuves-orphelines
+- options d'enchaîenement ✓
+
+
+Indesign projet
+==========================
