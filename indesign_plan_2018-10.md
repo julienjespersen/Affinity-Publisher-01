@@ -2,6 +2,13 @@ auteur: Julien.Jespersen@gmail.com
 
 date: 2018-05-14
 
+légende:
+- 👁 notion universelle ayant trait à la nature, la physique ou la culture
+- 📖 notion spécifique ayant trait au domaine ou au métier (graphisme, informatique, imprimerie)
+- 💡 notion spécifique ayant trait au logiciel (Indesign)
+
+- 🖐🏻 façon de faire, étapes pour réaliser quelque chose
+- 🔧 outils, description d'un outils ou d'une fonction
 
 Plan de cours sur **Adobe Indesign CS6**. Donné dans le cadre des Activités culturelles de l'Université de Genève.
 https://unige.ch/dife/culture/cours/image/indesign
@@ -12,85 +19,74 @@ Indesign Basics
 
 ### 1.0.1 introduction
 #### Opérations de bases
-- connaissances de base d'un éditeur de texte (p.ex. MS Word) ✓
-- nouveau fichier ✓
-- écrire du texte ✓
-- sauver le fichier ✓
-- retrouver et ouvrir le fichier ✓
+- connaissances de base d'un éditeur de texte (p.ex. MS Word)
+- nouveau fichier
+- écrire du texte
+- sauver le fichier
+- retrouver et ouvrir le fichier
 #### prise en mains (les 2 !!!)
-- nouveau doc: papier/web ✓
-- orientation ✓
-- formats ✓
+- nouveau doc: papier/web
+- orientation
+- formats
 #### environnement de travail
-- zoom ✓
-- déplacement ✓
-- affichage ✓
-- pallettes outils, fenêtres ✓
+- zoom
+- déplacement
+- affichage
+- pallettes outils, fenêtres
 #### objet
-- sélection simple ✓
-- poignées ✓
-- attributs: fond/contour ✓
+- sélection simple
+- poignées
+- attributs: fond/contour
+#### saisie de texte
+- bloc: sélection contenant/contenu
+- copier-coller contenant/contenu
+- attributs de caractères/paragraphe de base
 #### blocs
-- bloc texte/image ✓
-- notion: contenant - contenu ✓
+- bloc texte/image
+- notion: contenant - contenu
 #### agencement des blocs:
-- empilement ✓
-- alignement ✓
-- groupe ✓
-- notion: sélection, sélection multiple et discontinue ✓
+- empilement
+- alignement
+- groupe
+- notion: sélection, sélection multiple et discontinue
 #### enregistrement exportation
-- enregistrer .indd ✓
-- exporter .pdf ✓
+- enregistrer .indd
+- exporter .pdf
 
 ### 1.0.2 composition
-#### saisie de texte
-- bloc: sélection contenant/contenu ✓
-- copier-coller contenant/contenu ✓
-- attributs de caractères/paragraphe de base ✓
 #### texte
-- famille de caractères (avec, sans sérif, …) ✓
+- famille de caractères (avec, sans sérif, …)
 - césure et justification (basique)
-- feuilles de style (plus avancé) ✓
-- importer texte / coller texte / importer styles ✓
+- feuilles de style (plus avancé)
+- importer texte / coller texte / importer styles
 #### images opérations basiques
-- importer ✓
-- manipuler ✓
+- importer
+- manipuler
 
 #### organiser les couleurs
-- nommer les nuances ✓
-- consistance: couleurs identiques ✓
-- sytèmes de couleurs: RVB, CMJN, PMS, … ✓
-- couleurs mélangées / couleurs enregistrées ✓
+- nommer les nuances
+- consistance: couleurs identiques
+- sytèmes de couleurs: RVB, CMJN, PMS, …
+- couleurs mélangées / couleurs enregistrées
 
 #### texte
-- importer texte / format de fichier ✓
-- texte en excès ✓
-- chaînage (afficher) ✓
-- caractères invisibles ✓
-- feuilles de style (notions basiques) ✓
+- importer texte / format de fichier
+- texte en excès
+- chaînage (afficher)
+- caractères invisibles
+- feuilles de style (notions basiques)
 
 #### pages
-- règles et repères (commentés) ✓
-- marges ✓
-- élements récurents ✓
-- numéro de page ✓
-- calques ✓
+- règles et repères (commentés)
+- marges
+- élements récurents
+- numéro de page
+- calques
 
-#### objets
-- polygones ✓
-- opérations booléennes ✓
-- courbes de bézier (nœuds, splines) ✓
 
-#### images
-- info fichiers liés
-- mode colorimétrique
-- résolution
-- chemin ✓
-- mise à jour ✓
-- performance d'affichage
 
 #### composition
-- miroir de page ✓
+- miroir de page
 - rappel couleur
 - textes à lire / à voir
 - niveaux de lecture
@@ -99,58 +95,69 @@ Indesign Basics
 - temps
 
 #### enregistrement et exportation
-- assemblage (+ archive) ✓
-- enregistrement .idml ✓
-- exporter offset / web ✓
+- assemblage (+ archive)
+- enregistrement .idml
+- exporter offset / web
 
 
 ### 1.0.3 bonnes pratiques
 #### bloc de texte
 - attributs de bloc
-- habillage ✓
-- blocs dans le flux ✓
-- tableau
+- habillage
+- blocs dans le flux
+- 🖐🏻 tableau
 #### objet
 - dégradé
-- options de fusion ✓
-- effets
+- options de fusion
+- 🔧 effets
 - pipette
-- default aspect ✓
+- default aspect
 
-- gabarit (template, style sheet) ✓
+- gabarit (template, style sheet)
 
 #### enregistrement exportation
-- exportation .pdf (avancé) ✓
-- exportation .png .jpg ✓
+- exportation .pdf (avancé)
+- exportation .png .jpg
 
 
 Indesign avancé
 ==========================
 
-### 2.0.1 couleurs
+### 2.0.1 images, couleurs
 #### théorie des couleurs
-- synthèse additive RGB / soustractive CMYK ✓
+- synthèse additive RGB / soustractive CMYK
 - couleurs visibles, pourquoi
 - symbolique des couleurs
 #### images
 - notion: mode de l’image (raster, vectoriel)
-- encyclopaedia: format de fichier image
-- notion: compression (destructive, préservative) ✓
-- notion: unité de mesure quantité information ✓
+- encyclopaedia: 📖 format de fichier image
+- notion: compression (destructive, préservative)
+- notion: 💡 unité de mesure quantité information
+#### images
+- info fichiers liés
+- mode colorimétrique
+- résolution
+- chemin
+- mise à jour
+- performance d'affichage
 
 
 ### 2.0.2 texte
+#### texte
+- notes en bas de pages / fin d'article
 
 
 ### 2.0.3 illustration, composition
 
 #### composition
-- texte
+- 👁 texte
 - image ?
 - couleur(s)
 
-#### texte
-- notes en bas de pages / fin d'article ✓
+#### objets
+- polygones
+- opérations booléennes
+- courbes de bézier (nœuds, splines)
 
 
 #### images
@@ -159,7 +166,7 @@ Indesign avancé
 
 #### automatisation production
 - mise à l'échelle de documents
-- document multi formats ✓
+- document multi formats
 
 
 Indesign expert
@@ -170,13 +177,13 @@ Indesign expert
 - taux d'encrage
 - encres
 - affichage en couleurs simulées
-- profils col. ✓
+- profils col.
 - dictionnaire de césure perso.
 - mono/bi chrome (duotone)
 
 #### automatisation production
 - fusion des données
-- rechercher-remplacer ✓
+- rechercher-remplacer
 - variables de texte
 
 #### document
@@ -184,7 +191,7 @@ Indesign expert
 - numérotation section
 - justification (avancée)
 - veuves-orphelines
-- options d'enchaîenement ✓
+- options d'enchaîenement
 
 
 Indesign projet
