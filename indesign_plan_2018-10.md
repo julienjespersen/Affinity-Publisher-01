@@ -28,23 +28,23 @@ https://unige.ch/dife/culture/cours/image/indesign
 - écran
 - imprimante
 
-### applications
+### 0.0.3 applications
 - OS
 - applications spécifiques
 - (SaaS)
 
-### interface application
+### 0.0.4 interface application
 - fenêtres
 - dialogues
 - menus
 - palettes
 
-### organisation des données
+### 0.0.5 organisation des données
 - fichiers
 - chemins
 - utilisateurs
 
-### notions de grandeurs
+### 0.0.6 notions de grandeurs
 - unités de mesure de quantité
 - unités de mesure du débit
 - traitement des opérations
@@ -118,8 +118,6 @@ https://unige.ch/dife/culture/cours/image/indesign
 - élements récurents
 - numéro de page
 - calques
-
-
 
 #### composition
 - miroir de page
