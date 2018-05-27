@@ -14,7 +14,43 @@ Plan de cours sur **Adobe Indesign CS6**. Donné dans le cadre des Activités cu
 https://unige.ch/dife/culture/cours/image/indesign
 
 
-Indesign Basics
+0 Interface logicielle Basics
+============================================
+
+### 0.0.1 grammaire d'une action
+- sélection (sujet)
+- action (verbe)
+- contexte
+
+### 0.0.2 interfaces physiques
+- clavier
+- souris
+- écran
+- imprimante
+
+### applications
+- OS
+- applications spécifiques
+- (SaaS)
+
+### interface application
+- fenêtres
+- dialogues
+- menus
+- palettes
+
+### organisation des données
+- fichiers
+- chemins
+- utilisateurs
+
+### notions de grandeurs
+- unités de mesure de quantité
+- unités de mesure du débit
+- traitement des opérations
+
+
+1 Indesign Basics
 ============================================
 
 ### 1.0.1 introduction
