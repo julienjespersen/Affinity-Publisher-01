@@ -14,7 +14,7 @@ Plan de cours sur **Adobe Indesign CS6**. Donné dans le cadre des Activités cu
 https://unige.ch/dife/culture/cours/image/indesign
 
 Plan de la formation:
-
+`
 0 Interface logicielle Basics [2h.]
 ├── 1 Indesign Basics [6h.]          
 │   └── 2 Indesign Advanced [6h.]
@@ -23,7 +23,7 @@ Plan de la formation:
     └── 2 Photoshop Advanced [6h.]  │
         └───────────────────────────┤
                                     └─ 3 Workshop + final project [2h.]
-
+`
 
 
 0 Interface logicielle Basics
