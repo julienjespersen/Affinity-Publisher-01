@@ -13,6 +13,18 @@ légende:
 Plan de cours sur **Adobe Indesign CS6**. Donné dans le cadre des Activités culturelles de l'Université de Genève.
 https://unige.ch/dife/culture/cours/image/indesign
 
+Plan de la formation:
+
+0 Interface logicielle Basics [2h.]
+├── 1 Indesign Basics [6h.]          
+│   └── 2 Indesign Advanced [6h.]
+│       └───────────────────────────┐
+└── 1 Photoshop Basics [6h.]        │
+    └── 2 Photoshop Advanced [6h.]  │
+        └───────────────────────────┤
+                                    └─ 3 Workshop + final project [2h.]
+
+
 
 0 Interface logicielle Basics
 ============================================
@@ -49,17 +61,18 @@ https://unige.ch/dife/culture/cours/image/indesign
 - unités de mesure du débit
 - traitement des opérations
 
-
-1 Indesign Basics
-============================================
-
-### 1.0.1 introduction
 #### Opérations de bases
 - connaissances de base d'un éditeur de texte (p.ex. MS Word)
 - nouveau fichier
 - écrire du texte
 - sauver le fichier
 - retrouver et ouvrir le fichier
+
+
+1 Indesign Basics
+============================================
+
+### 1.0.1 introduction
 #### prise en mains (les 2 !!!)
 - nouveau doc: papier/web
 - orientation
@@ -145,8 +158,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 - options de fusion
 - 🔧 effets
 - pipette
-- default aspect
-
+- aspect par défaut
 - gabarit (template, style sheet)
 
 #### enregistrement exportation
@@ -163,10 +175,9 @@ Indesign avancé
 - couleurs visibles, pourquoi
 - symbolique des couleurs
 #### images
-- notion: mode de l’image (raster, vectoriel)
-- encyclopaedia: 📖 format de fichier image
-- notion: compression (destructive, préservative)
-- notion: 💡 unité de mesure quantité information
+- 📖 mode de l’image (raster, vectoriel)
+- 📖 format de fichier image
+- 💡 compression (destructive, préservative)
 #### images
 - info fichiers liés
 - mode colorimétrique
@@ -175,11 +186,9 @@ Indesign avancé
 - mise à jour
 - performance d'affichage
 
-
 ### 2.0.2 texte
 #### texte
 - notes en bas de pages / fin d'article
-
 
 ### 2.0.3 illustration, composition
 
