@@ -2,28 +2,35 @@ auteur: Julien.Jespersen@gmail.com
 
 date: 2018-05-14
 
-légende:
-- 👁 notion universelle ayant trait à la nature, la physique ou la culture
-- 📖 notion spécifique ayant trait au domaine ou au métier (graphisme, informatique, imprimerie)
-- 💡 notion spécifique ayant trait au logiciel (Indesign)
-
-- 🖐🏻 façon de faire, étapes pour réaliser quelque chose
-- 🔧 outils, description d'un outils ou d'une fonction
-
 Plan de cours sur **Adobe Indesign CS6**. Donné dans le cadre des Activités culturelles de l'Université de Genève.
 https://unige.ch/dife/culture/cours/image/indesign
 
 Plan de la formation:
-`
-0 Interface logicielle Basics [2h.]
-├── 1 Indesign Basics [6h.]          
-│   └── 2 Indesign Advanced [6h.]
-│       └───────────────────────────┐
-└── 1 Photoshop Basics [6h.]        │
-    └── 2 Photoshop Advanced [6h.]  │
-        └───────────────────────────┤
-                                    └─ 3 Workshop + final project [2h.]
-`
+
+```
+0 Indesign et Photoshop:
+│ Interface de travail [2h.]
+│
+├── 1 Indesign: 
+│   │ niveau débutant [6h.]          
+│   │
+│   └── 2 Indesign: 
+│       │ niveau intermédiaire [6h.]
+│       │
+│       └───────────────────────────────┐
+│                                       │
+└── 1 Photoshop:                        │
+    │ Développement de                  │
+    │ l'image numérique [6h.]           │
+    │                                   │
+    └── 2 Photoshop:                    │
+        │ Traitement et manipulation    │
+        │ de l'image numérique [6h.]    │
+        │                               │
+        └───────────────────────────────┤
+                                        └─ 3 Indesign et Photoshop: 
+                                             Réalisation de projets [4h.]
+```
 
 
 0 Interface logicielle Basics
