@@ -36,39 +36,39 @@ Plan de la formation:
 0 Interface logicielle Basics
 ============================================
 
-### 0.0.1 grammaire d'une action
+### 0.1 grammaire d'une action
 - sélection (sujet)
 - action (verbe)
 - contexte
 
-### 0.0.2 interfaces physiques
+### 0.2 interfaces physiques
 - clavier
 - souris
 - écran
 - imprimante
 
-### 0.0.3 applications
+### 0.3 applications
 - OS
 - applications spécifiques
 - (SaaS)
 
-### 0.0.4 interface application
+### 0.4 interface application
 - fenêtres
 - dialogues
 - menus
 - palettes
 
-### 0.0.5 organisation des données
+### 0.5 organisation des données
 - fichiers
 - chemins
 - utilisateurs
 
-### 0.0.6 notions de grandeurs
+### 0.6 notions de grandeurs
 - unités de mesure de quantité
 - unités de mesure du débit
 - traitement des opérations
 
-#### Opérations de bases
+### 0.7 Opérations de bases
 - connaissances de base d'un éditeur de texte (p.ex. MS Word)
 - nouveau fichier
 - écrire du texte
@@ -79,8 +79,8 @@ Plan de la formation:
 1 Indesign Basics
 ============================================
 
-### 1.0.1 introduction
-#### prise en mains (les 2 !!!)
+### 1.1 introduction
+#### prise en mains
 - nouveau doc: papier/web
 - orientation
 - formats
@@ -109,7 +109,7 @@ Plan de la formation:
 - enregistrer .indd
 - exporter .pdf
 
-### 1.0.2 composition
+### 1.2 composition
 #### texte
 - famille de caractères (avec, sans sérif, …)
 - césure et justification (basique)
@@ -154,16 +154,16 @@ Plan de la formation:
 - exporter offset / web
 
 
-### 1.0.3 bonnes pratiques
+### 1.3 bonnes pratiques
 #### bloc de texte
 - attributs de bloc
 - habillage
 - blocs dans le flux
-- 🖐🏻 tableau
+- tableau
 #### objet
 - dégradé
 - options de fusion
-- 🔧 effets
+- effets
 - pipette
 - aspect par défaut
 - gabarit (template, style sheet)
@@ -176,15 +176,15 @@ Plan de la formation:
 Indesign avancé
 ==========================
 
-### 2.0.1 images, couleurs
+### 2.1 images, couleurs
 #### théorie des couleurs
 - synthèse additive RGB / soustractive CMYK
 - couleurs visibles, pourquoi
 - symbolique des couleurs
 #### images
-- 📖 mode de l’image (raster, vectoriel)
-- 📖 format de fichier image
-- 💡 compression (destructive, préservative)
+- mode de l’image (raster, vectoriel)
+- format de fichier image
+- compression (destructive, préservative)
 #### images
 - info fichiers liés
 - mode colorimétrique
@@ -193,14 +193,14 @@ Indesign avancé
 - mise à jour
 - performance d'affichage
 
-### 2.0.2 texte
+### 2.2 texte
 #### texte
 - notes en bas de pages / fin d'article
 
-### 2.0.3 illustration, composition
+### 2.3 illustration, composition
 
 #### composition
-- 👁 texte
+- texte
 - image ?
 - couleur(s)
 
@@ -208,7 +208,6 @@ Indesign avancé
 - polygones
 - opérations booléennes
 - courbes de bézier (nœuds, splines)
-
 
 #### images
 - couche alpha
