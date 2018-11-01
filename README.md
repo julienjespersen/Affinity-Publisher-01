@@ -1,5 +1,6 @@
 auteur: Julien.Jespersen@gmail.com
-date: 2018-03-30
+
+date: 2018-05-14
 
 
 description
@@ -9,78 +10,79 @@ Plan de cours sur **Adobe Indesign CS6**. Donné dans le cadre des Activités cu
 https://unige.ch/dife/culture/cours/image/indesign
 
 
-1re session
-=======================
+## Indesign Basic
 
-### prérequis
+### 1.0.1
 - connaissances de base d'un éditeur de texte (p.ex. MS Word) ✓
 - nouveau fichier ✓
 - écrire du texte ✓
 - sauver le fichier ✓
 - retrouver et ouvrir le fichier ✓
 
-### prise en mains (les 2 !!!)
+#### prise en mains (les 2 !!!)
 - nouveau doc: papier/web ✓
 - orientation ✓
 - formats ✓
 
-### environnement de travail
+#### environnement de travail
 - zoom ✓
 - déplacement ✓
 - affichage ✓
 - pallettes outils, fenêtres ✓
 
-### objet
+#### objet
 - sélection simple ✓
 - poignées ✓
 - attributs: fond/contour ✓
 
-### blocs
+#### blocs
 - bloc texte/image ✓
 - notion: contenant - contenu ✓
 
-### agencement des blocs:
+#### agencement des blocs:
 - empilement ✓
 - alignement ✓
 - groupe ✓
 - notion: sélection, sélection multiple et discontinue ✓
 
-### images opérations basiques
-- importer ✓
-- manipuler ✓
 
-### saisie de texte
-- bloc: sélection contenant/contenu ✓
-- copier-coller contenant/contenu ✓
-- attributs de caractères/paragraphe de base ✓
 
-### composition
-- texte
-- image ?
-- couleur(s)
 
 ### enregistrement exportation
 - enregistrer .indd ✓
 - exporter .pdf ✓
 
 
-2e session
-===========================
+### 1.0.2
 
-### organiser les couleurs
+#### images opérations basiques
+- importer ✓
+- manipuler ✓
+
+#### saisie de texte
+- bloc: sélection contenant/contenu ✓
+- copier-coller contenant/contenu ✓
+- attributs de caractères/paragraphe de base ✓
+
+#### composition
+- texte
+- image ?
+- couleur(s)
+
+#### organiser les couleurs
 - nommer les nuances ✓
 - consistance: couleurs identiques ✓
 - sytèmes de couleurs: RVB, CMJN, PMS, … ✓
 - couleurs mélangées / couleurs enregistrées ✓
 
-### texte
+#### texte
 - importer texte / format de fichier ✓
 - texte en excès ✓
 - chaînage (afficher) ✓
 - caractères invisibles ✓
 - feuilles de style (notions basiques) ✓
 
-### pages
+#### pages
 - règles et repères (commentés) ✓
 - gabarit (template, style sheet) ✓
 - marges ✓
@@ -88,12 +90,12 @@ https://unige.ch/dife/culture/cours/image/indesign
 - numéro de page ✓
 - calques ✓
 
-### objets
+#### objets
 - polygones ✓
 - opérations booléennes ✓
 - courbes de bézier (nœuds, splines) ✓
 
-### images
+#### images
 - info fichiers liés
 - mode colorimétrique
 - résolution
@@ -101,7 +103,7 @@ https://unige.ch/dife/culture/cours/image/indesign
 - mise à jour ✓
 - performance d'affichage
 
-### composition
+#### composition
 - miroir de page ✓
 - rappel couleur
 - textes à lire / à voir
@@ -110,46 +112,45 @@ https://unige.ch/dife/culture/cours/image/indesign
 - distance
 - temps
 
-### enregistrement et exportation
+#### enregistrement et exportation
 - assemblage (+ archive) ✓
 - enregistrement .idml ✓
 - exporter offset / web ✓
 
 
-3e session
-=====================
+### 1.0.3
 
-### théorie des couleurs
+#### théorie des couleurs
 - synthèse additive RGB / soustractive CMYK ✓
 - couleurs visibles, pourquoi
 - symbolique des couleurs
 
-### bloc de texte
+#### bloc de texte
 - attributs de bloc
 - habillage ✓
 - blocs dans le flux ✓
 - tableau
 
-### objet
+#### objet
 - dégradé
 - options de fusion ✓
 - effets
 - pipette
 - default aspect ✓
 
-### texte
+#### texte
 - famille de caractères (avec, sans sérif, …) ✓
 - césure et justification (basique)
 - feuilles de style (plus avancé) ✓
 - importer texte / coller texte / importer styles ✓
 
-### images
+#### images
 - notion: mode de l’image (raster, vectoriel)
 - encyclopaedia: format de fichier image
 - notion: compression (destructive, préservative) ✓
 - notion: unité de mesure quantité information ✓
 
-### enregistrement exportation
+#### enregistrement exportation
 - exportation .pdf (avancé) ✓
 - exportation .png .jpg ✓
 
