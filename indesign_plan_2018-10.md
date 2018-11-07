@@ -80,31 +80,39 @@ Plan de la formation:
 ============================================
 
 ### 1.1 introduction
+
 #### prise en mains
 - nouveau doc: papier/web
 - orientation
 - formats
+
 #### environnement de travail
 - zoom
 - déplacement
 - affichage
 - pallettes outils, fenêtres
+
 #### objet
 - sélection simple
 - poignées
 - attributs: fond/contour
+
 #### saisie de texte
 - bloc: sélection contenant/contenu
 - copier-coller contenant/contenu
+- caractères invisibles
 - attributs de caractères/paragraphe de base
+
 #### blocs
 - bloc texte/image
 - notion: contenant - contenu
+
 #### agencement des blocs:
 - empilement
 - alignement
 - groupe
 - notion: sélection, sélection multiple et discontinue
+
 #### enregistrement exportation
 - enregistrer .indd
 - exporter .pdf
@@ -113,8 +121,9 @@ Plan de la formation:
 #### texte
 - famille de caractères (avec, sans sérif, …)
 - césure et justification (basique)
-- feuilles de style (plus avancé)
+- feuilles de style
 - importer texte / coller texte / importer styles
+
 #### images opérations basiques
 - importer
 - manipuler
@@ -125,28 +134,12 @@ Plan de la formation:
 - sytèmes de couleurs: RVB, CMJN, PMS, …
 - couleurs mélangées / couleurs enregistrées
 
-#### texte
-- importer texte / format de fichier
-- texte en excès
-- chaînage (afficher)
-- caractères invisibles
-- feuilles de style (notions basiques)
-
 #### pages
 - règles et repères (commentés)
 - marges
 - élements récurents
 - numéro de page
 - calques
-
-#### composition
-- miroir de page
-- rappel couleur
-- textes à lire / à voir
-- niveaux de lecture
-- proportions
-- distance
-- temps
 
 #### enregistrement et exportation
 - assemblage (+ archive)
@@ -167,6 +160,23 @@ Plan de la formation:
 - pipette
 - aspect par défaut
 - gabarit (template, style sheet)
+
+#### texte
+- importer texte / format de fichier
+- texte en excès
+- chaînage (afficher)
+- feuilles de style (notions basiques)
+
+
+#### composition
+- miroir de page
+- rappel couleur
+- textes à lire / à voir
+- niveaux de lecture
+- proportions
+- distance
+- temps
+
 
 #### enregistrement exportation
 - exportation .pdf (avancé)
