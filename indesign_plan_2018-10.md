@@ -133,6 +133,8 @@ Plan de la formation:
 - consistance: couleurs identiques
 - sytèmes de couleurs: RVB, CMJN, PMS, …
 - couleurs mélangées / couleurs enregistrées
+- dégradés
+
 
 #### pages
 - règles et repères (commentés)
@@ -141,6 +143,10 @@ Plan de la formation:
 - numéro de page
 - calques
 
+#### objets
+- mode de fusion
+- effets
+
 #### enregistrement et exportation
 - assemblage (+ archive)
 - enregistrement .idml
@@ -148,11 +154,13 @@ Plan de la formation:
 
 
 ### 1.3 bonnes pratiques
+
 #### bloc de texte
 - attributs de bloc
 - habillage
 - blocs dans le flux
 - tableau
+
 #### objet
 - dégradé
 - options de fusion
@@ -163,10 +171,10 @@ Plan de la formation:
 
 #### texte
 - importer texte / format de fichier
+- habillage
 - texte en excès
 - chaînage (afficher)
 - feuilles de style (notions basiques)
-
 
 #### composition
 - miroir de page
@@ -176,7 +184,6 @@ Plan de la formation:
 - proportions
 - distance
 - temps
-
 
 #### enregistrement exportation
 - exportation .pdf (avancé)
