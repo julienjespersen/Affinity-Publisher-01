@@ -122,7 +122,6 @@ Plan de la formation:
 - famille de caractères (avec, sans sérif, …)
 - césure et justification (basique)
 - feuilles de style
-- importer texte / coller texte / importer styles
 
 #### images opérations basiques
 - importer
@@ -135,7 +134,6 @@ Plan de la formation:
 - couleurs mélangées / couleurs enregistrées
 - dégradés
 
-
 #### pages
 - règles et repères (commentés)
 - marges
@@ -147,10 +145,6 @@ Plan de la formation:
 - mode de fusion
 - effets
 
-#### enregistrement et exportation
-- assemblage (+ archive)
-- enregistrement .idml
-- exporter offset / web
 
 
 ### 1.3 bonnes pratiques
@@ -158,27 +152,24 @@ Plan de la formation:
 #### bloc de texte
 - attributs de bloc
 - habillage
-- blocs dans le flux
-- tableau
 
 #### objet
-- dégradé
 - options de fusion
 - effets
 - pipette
 - aspect par défaut
-- gabarit (template, style sheet)
+
+#### page
+- règles et repères (commentés)
+- gabarits
+- numéros de page
+- calques
 
 #### texte
 - importer texte / format de fichier
 - habillage
-- texte en excès
-- chaînage (afficher)
-- feuilles de style (notions basiques)
 
 #### composition
-- miroir de page
-- rappel couleur
 - textes à lire / à voir
 - niveaux de lecture
 - proportions
@@ -186,8 +177,11 @@ Plan de la formation:
 - temps
 
 #### enregistrement exportation
-- exportation .pdf (avancé)
-- exportation .png .jpg
+- assemblage (+ archive)
+- exportation .pdf .png .jpg
+
+
+
 
 
 Indesign avancé
@@ -220,6 +214,8 @@ Indesign avancé
 - texte
 - image ?
 - couleur(s)
+- blocs dans le flux
+- tableau
 
 #### objets
 - polygones
@@ -233,6 +229,10 @@ Indesign avancé
 #### automatisation production
 - mise à l'échelle de documents
 - document multi formats
+#### enregistrement et exportation
+- assemblage (+ archive)
+- enregistrement .idml
+- exporter offset / web
 
 
 Indesign expert
