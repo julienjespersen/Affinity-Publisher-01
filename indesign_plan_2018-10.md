@@ -210,15 +210,26 @@ Indesign avancé
 - texte placé, texte lié
 - styles liés, imbriqués
 - table des matières
+- importation / récupération des styles
+- justification
+- césure (dict.)
+- lettrine
+- alinéa (négatif)
+- veuves-orphelines
+- approche
+- grille
+
 
 ### 2.3 illustration, composition
 
 #### composition
+- gabarits, liés
 - texte
 - image ?
 - couleur(s)
 - blocs dans le flux
 - tableau
+- repères / règles
 
 #### objets
 - polygones
@@ -238,6 +249,10 @@ Indesign avancé
 - séparation
 - noirs (riche)
 - paramètres de défonce, "noyade"
+- source de données tabulaires, automatisation
+- importation indd dans indd
+- rechercher / remplacer (grep?)
+
 #### enregistrement et exportation
 - enregistrement .idml
 - exporter offset / web (profils + normes)
