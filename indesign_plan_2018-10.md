@@ -207,6 +207,9 @@ Indesign avancé
 ### 2.2 texte
 #### texte
 - notes en bas de pages / fin d'article
+- texte placé, texte lié
+- styles liés, imbriqués
+- table des matières
 
 ### 2.3 illustration, composition
 
@@ -220,19 +223,24 @@ Indesign avancé
 #### objets
 - polygones
 - opérations booléennes
-- courbes de bézier (nœuds, splines)
+- courbes de bézier (nœuds, segments)
 
 #### images
 - couche alpha
 - habillage selon détourage (clipping path)
 
+
+### 2.3 Bonnes pratiques
 #### automatisation production
 - mise à l'échelle de documents
 - document multi formats
+- taux d'encrage
+- séparation
+- noirs (riche)
+- paramètres de défonce, "noyade"
 #### enregistrement et exportation
-- assemblage (+ archive)
 - enregistrement .idml
-- exporter offset / web
+- exporter offset / web (profils + normes)
 
 
 Indesign expert
