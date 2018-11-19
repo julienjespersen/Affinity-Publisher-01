@@ -216,6 +216,8 @@ Indesign avancé
 - lettrine
 - alinéa (négatif)
 - veuves-orphelines
+- espaces avant / après
+- lignes solidaires / début du para.
 - approche
 - grille
 
@@ -252,6 +254,7 @@ Indesign avancé
 - source de données tabulaires, automatisation
 - importation indd dans indd
 - rechercher / remplacer (grep?)
+- style suivant, automatisation
 
 #### enregistrement et exportation
 - enregistrement .idml
