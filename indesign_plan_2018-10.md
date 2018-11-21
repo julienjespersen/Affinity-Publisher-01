@@ -184,19 +184,19 @@ Plan de la formation:
 
 
 
-Indesign avancé
+2 Indesign avancé
 ==========================
 
 ### 2.1 images, couleurs
-#### théorie des couleurs
-- synthèse additive RGB / soustractive CMYK
-- couleurs visibles, pourquoi
-- symbolique des couleurs
+#### objets
+- polygones
+- opérations booléennes
+- courbes de bézier (nœuds, segments)
+
 #### images
 - mode de l’image (raster, vectoriel)
 - format de fichier image
 - compression (destructive, préservative)
-#### images
 - info fichiers liés
 - mode colorimétrique
 - résolution
@@ -206,16 +206,9 @@ Indesign avancé
 
 ### 2.2 texte
 #### texte
-- notes en bas de pages / fin d'article
-- texte placé, texte lié
-- styles liés, imbriqués
-- table des matières
 - importation / récupération des styles
-- justification
-- césure (dict.)
 - lettrine
 - alinéa (négatif)
-- veuves-orphelines
 - espaces avant / après
 - lignes solidaires / début du para.
 - approche
@@ -233,17 +226,25 @@ Indesign avancé
 - tableau
 - repères / règles
 
-#### objets
-- polygones
-- opérations booléennes
-- courbes de bézier (nœuds, segments)
-
 #### images
 - couche alpha
 - habillage selon détourage (clipping path)
 
+#### texte
+- texte placé, texte lié
+- notes en bas de pages / fin d'article
+- styles liés, imbriqués
+- table des matières
+- justification
+- césure (dict.)
+- veuves-orphelines
+
 
 ### 2.3 Bonnes pratiques
+#### théorie des couleurs
+- synthèse additive RGB / soustractive CMYK
+- couleurs visibles, pourquoi
+- symbolique des couleurs
 #### automatisation production
 - mise à l'échelle de documents
 - document multi formats
