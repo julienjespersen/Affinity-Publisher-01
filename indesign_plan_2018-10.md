@@ -196,7 +196,6 @@ Plan de la formation:
 #### images
 - mode de l’image (raster, vectoriel)
 - format de fichier image
-- compression (destructive, préservative)
 - info fichiers liés
 - mode colorimétrique
 - résolution
@@ -204,7 +203,6 @@ Plan de la formation:
 - mise à jour
 - performance d'affichage
 
-### 2.2 texte
 #### texte
 - importation / récupération des styles
 - lettrine
@@ -215,7 +213,8 @@ Plan de la formation:
 - grille
 
 
-### 2.3 illustration, composition
+
+### 2.2 composition
 
 #### composition
 - gabarits, liés
@@ -229,6 +228,8 @@ Plan de la formation:
 #### images
 - couche alpha
 - habillage selon détourage (clipping path)
+- compression (destructive, préservative)
+
 
 #### texte
 - texte placé, texte lié
