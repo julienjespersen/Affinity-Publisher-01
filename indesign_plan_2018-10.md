@@ -190,27 +190,19 @@ Plan de la formation:
 ### 2.1 images, couleurs
 #### objets
 - polygones
-- opérations booléennes
+- opérations booléennes (pathfinder)
 - courbes de bézier (nœuds, segments)
 
 #### images
 - mode de l’image (raster, vectoriel)
-- format de fichier image
 - info fichiers liés
-- mode colorimétrique
 - résolution
 - chemin
-- mise à jour
-- performance d'affichage
 
-#### texte
-- importation / récupération des styles
-- lettrine
-- alinéa (négatif)
-- espaces avant / après
-- lignes solidaires / début du para.
-- approche
-- grille
+#### interface
+- règles
+- repères
+- calques
 
 
 
@@ -229,6 +221,10 @@ Plan de la formation:
 - couche alpha
 - habillage selon détourage (clipping path)
 - compression (destructive, préservative)
+- mise à jour
+- performance d'affichage
+- format de fichier image
+- mode colorimétrique
 
 
 #### texte
@@ -239,6 +235,13 @@ Plan de la formation:
 - justification
 - césure (dict.)
 - veuves-orphelines
+- importation / récupération des styles
+- lettrine
+- alinéa (négatif)
+- espaces avant / après
+- lignes solidaires / début du para.
+- approche
+- grille
 
 
 ### 2.3 Bonnes pratiques
