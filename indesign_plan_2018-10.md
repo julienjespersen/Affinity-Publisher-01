@@ -226,22 +226,20 @@ Plan de la formation:
 - format de fichier image
 - mode colorimétrique
 
-
 #### texte
 - texte placé, texte lié
-- notes en bas de pages / fin d'article
 - styles liés, imbriqués
 - table des matières
 - justification
 - césure (dict.)
 - veuves-orphelines
 - importation / récupération des styles
-- lettrine
 - alinéa (négatif)
 - espaces avant / après
 - lignes solidaires / début du para.
 - approche
 - grille
+- rechercher / remplacer (grep?)
 
 
 ### 2.3 Bonnes pratiques
@@ -258,8 +256,9 @@ Plan de la formation:
 - paramètres de défonce, "noyade"
 - source de données tabulaires, automatisation
 - importation indd dans indd
-- rechercher / remplacer (grep?)
 - style suivant, automatisation
+- notes en bas de pages / fin d'article
+- lettrine
 
 #### enregistrement et exportation
 - enregistrement .idml
