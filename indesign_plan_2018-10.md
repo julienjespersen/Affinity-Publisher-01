@@ -19,17 +19,22 @@ Plan de la formation:
 │       │
 │       └───────────────────────────────┐
 │                                       │
-└── 1 Photoshop:                        │
-    │ Développement de                  │
-    │ l'image numérique [6h.]           │
-    │                                   │
-    └── 2 Photoshop:                    │
-        │ Traitement et manipulation    │
-        │ de l'image numérique [6h.]    │
-        │                               │
-        └───────────────────────────────┤
-                                        └─ 3 Indesign et Photoshop: 
+├── 1 Photoshop:                        │
+│   │ Développement de                  │
+│   │ l'image numérique [15h.]          │
+│   │                                   │
+│   └── 2 Photoshop:                    │
+│       │ Traitement et manipulation    │
+│       │ de l'image numérique [15h.]   │
+│       │                               │
+|       └───────────────────────────────┤
+|                                       |
+└── 1 Affinity Designer                 |
+    | Illustration numérique [4h]       |
+    └───────────────────────────────────┤
+                                        └─ 3 Indesign, Photoshop et Affinity Designer: 
                                              Réalisation de projets [4h.]
+
 ```
 
 
