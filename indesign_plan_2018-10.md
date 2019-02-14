@@ -31,6 +31,7 @@ Plan de la formation:
 |                                       |
 └── 1 Affinity Designer                 |
     | Illustration numérique [4h]       |
+    |                                   |
     └───────────────────────────────────┤
                                         └─ 3 Indesign, Photoshop et Affinity Designer: 
                                              Réalisation de projets [4h.]
