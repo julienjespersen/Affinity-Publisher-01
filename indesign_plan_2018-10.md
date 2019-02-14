@@ -39,7 +39,7 @@ Plan de la formation:
 ```
 
 
-0 Interface logicielle Basics
+0 Interface logicielle (débutant)
 ============================================
 
 ### 0.1 grammaire d'une action
@@ -82,7 +82,7 @@ Plan de la formation:
 - retrouver et ouvrir le fichier
 
 
-1 Indesign Basics
+1 InDesign (débutant)
 ============================================
 
 ### 1.1 introduction
@@ -190,7 +190,7 @@ Plan de la formation:
 
 
 
-2 Indesign avancé
+2 InDesign (intermédiaire)
 ==========================
 
 ### 2.1 images, couleurs
@@ -271,7 +271,7 @@ Plan de la formation:
 - exporter offset / web (profils + normes)
 
 
-Indesign expert
+InDesign (avancé)
 ==========================
 
 #### qualité
@@ -296,5 +296,5 @@ Indesign expert
 - options d'enchaîenement
 
 
-Indesign projet
+InDesign projet
 ==========================
