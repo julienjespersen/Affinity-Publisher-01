@@ -270,6 +270,10 @@ Plan de la formation:
 - enregistrement .idml
 - exporter offset / web (profils + normes)
 
+3 InDesign projet
+==========================
+…
+
 
 InDesign (avancé)
 ==========================
@@ -295,6 +299,3 @@ InDesign (avancé)
 - veuves-orphelines
 - options d'enchaîenement
 
-
-InDesign projet
-==========================
