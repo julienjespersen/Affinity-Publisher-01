@@ -2,7 +2,7 @@ auteur: Julien.Jespersen@gmail.com
 
 date: 2018-05-14
 
-Plan de cours sur **Adobe Indesign CS6**. Donné dans le cadre des Activités culturelles de l'Université de Genève.
+Plan de cours sur **Adobe InDesign CS6**. Donné dans le cadre des Activités culturelles de l'Université de Genève.
 https://unige.ch/dife/culture/cours/image/indesign
 
 Plan de la formation:
@@ -125,9 +125,9 @@ Plan de la formation:
 
 ### 1.2 composition
 #### texte
-- famille de caractères (avec, sans sérif, …)
+- famille de caractères (avec sérif, sans sérif, …)
 - césure et justification (basique)
-- feuilles de style
+- style de paragraphe, de caractère
 
 #### images opérations basiques
 - importer
@@ -136,21 +136,18 @@ Plan de la formation:
 #### organiser les couleurs
 - nommer les nuances
 - consistance: couleurs identiques
-- sytèmes de couleurs: RVB, CMJN, PMS, …
+- sytèmes de couleurs: RVB, CMJN, Lab, PMS, …
 - couleurs mélangées / couleurs enregistrées
 - dégradés
 
 #### pages
 - règles et repères (commentés)
 - marges
-- élements récurents
-- numéro de page
 - calques
 
 #### objets
 - mode de fusion
 - effets
-
 
 
 ### 1.3 bonnes pratiques
@@ -167,9 +164,9 @@ Plan de la formation:
 
 #### page
 - règles et repères (commentés)
+- élements récurents
 - gabarits
 - numéros de page
-- calques
 
 #### texte
 - importer texte / format de fichier
@@ -185,8 +182,6 @@ Plan de la formation:
 #### enregistrement exportation
 - assemblage (+ archive)
 - exportation .pdf .png .jpg
-
-
 
 
 
