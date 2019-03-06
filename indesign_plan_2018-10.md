@@ -113,7 +113,7 @@ Plan de la formation:
 - bloc texte/image
 - notion: contenant - contenu
 
-#### agencement des blocs:
+#### agencement des blocs
 - empilement
 - alignement
 - groupe
