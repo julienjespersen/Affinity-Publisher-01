@@ -105,8 +105,8 @@ Plan de la formation:
 #### saisie de texte
 - bloc: sélection contenant/contenu
 - copier-coller contenant/contenu
-- caractères invisibles
-- attributs de caractères/paragraphe de base
+- :sun_with_face: :crescent_moon: caractères invisibles
+- :sun_with_face: :crescent_moon: attributs de caractères/paragraphe de base
 
 #### blocs
 - bloc texte/image
@@ -114,7 +114,7 @@ Plan de la formation:
 
 #### agencement des blocs
 - empilement
-- *alignement / distribution / espacement*
+- :crescent_moon: alignement / distribution / espacement
 - groupe
 - notion: sélection, sélection multiple et discontinue
 
