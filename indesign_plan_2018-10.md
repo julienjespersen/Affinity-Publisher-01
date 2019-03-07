@@ -38,9 +38,6 @@ Plan de la formation:
 
 ```
 
-- [ ] test1
-- [ ] [ ] test2
-
 0 Interface logicielle (débutant)
 ============================================
 
@@ -117,7 +114,7 @@ Plan de la formation:
 
 #### agencement des blocs
 - empilement
-- alignement
+- *alignement / distribution / espacement*
 - groupe
 - notion: sélection, sélection multiple et discontinue
 
