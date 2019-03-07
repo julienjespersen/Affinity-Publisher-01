@@ -38,6 +38,8 @@ Plan de la formation:
 
 ```
 
+[ ] test1
+[ ] [ ] test2
 
 0 Interface logicielle (débutant)
 ============================================
