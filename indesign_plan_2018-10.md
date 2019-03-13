@@ -114,7 +114,7 @@ Plan de la formation:
 
 #### agencement des blocs
 - empilement
-- :crescent_moon: alignement / distribution / espacement
+- :sun_with_face: alignement / distribution / espacement
 - groupe
 - notion: sélection, sélection multiple et discontinue
 
