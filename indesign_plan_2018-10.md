@@ -105,8 +105,8 @@ Plan de la formation:
 #### saisie de texte
 - bloc: sélection contenant/contenu
 - copier-coller contenant/contenu
-- :sun_with_face: :crescent_moon: caractères invisibles
-- :sun_with_face: :crescent_moon: attributs de caractères/paragraphe de base
+- :crescent_moon: caractères invisibles
+- :crescent_moon: attributs de caractères/paragraphe de base
 
 #### blocs
 - bloc texte/image
@@ -114,7 +114,7 @@ Plan de la formation:
 
 #### agencement des blocs
 - empilement
-- :sun_with_face: alignement / distribution / espacement
+- alignement / distribution / espacement
 - groupe
 - notion: sélection, sélection multiple et discontinue
 
@@ -125,7 +125,7 @@ Plan de la formation:
 ### 1.2 composition
 #### texte
 - famille de caractères (avec sérif, sans sérif, …)
-- césure et justification (basique)
+- :sun_with_face: césure et justification (basique)
 - style de paragraphe, de caractère
 
 #### images opérations basiques
@@ -137,16 +137,16 @@ Plan de la formation:
 - consistance: couleurs identiques
 - sytèmes de couleurs: RVB, CMJN, Lab, PMS, …
 - couleurs mélangées / couleurs enregistrées
-- dégradés
+- :sun_with_face: dégradés
 
 #### pages
 - règles et repères (commentés)
 - marges
-- calques
+- :sun_with_face: calques
 
 #### objets
-- mode de fusion
-- effets
+- :sun_with_face: mode de fusion
+- :sun_with_face: effets
 
 
 ### 1.3 bonnes pratiques
