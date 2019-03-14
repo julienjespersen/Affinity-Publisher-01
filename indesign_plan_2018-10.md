@@ -105,8 +105,8 @@ Plan de la formation:
 #### saisie de texte
 - bloc: sélection contenant/contenu
 - copier-coller contenant/contenu
-- :crescent_moon: caractères invisibles
-- :crescent_moon: attributs de caractères/paragraphe de base
+- caractères invisibles
+- attributs de caractères/paragraphe de base
 
 #### blocs
 - bloc texte/image
@@ -124,7 +124,7 @@ Plan de la formation:
 
 ### 1.2 composition
 #### texte
-- famille de caractères (avec sérif, sans sérif, …)
+- :sun_with_face: :crescent_moon: famille de caractères (avec sérif, sans sérif, …)
 - :sun_with_face: césure et justification (basique)
 - style de paragraphe, de caractère
 
@@ -142,11 +142,11 @@ Plan de la formation:
 #### pages
 - règles et repères (commentés)
 - marges
-- :sun_with_face: calques
+- :sun_with_face: :crescent_moon: calques
 
 #### objets
-- :sun_with_face: mode de fusion
-- :sun_with_face: effets
+- :sun_with_face: :crescent_moon:  mode de fusion
+- :sun_with_face: :crescent_moon: effets
 
 
 ### 1.3 bonnes pratiques
