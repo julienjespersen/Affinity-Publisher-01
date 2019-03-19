@@ -169,7 +169,8 @@ Plan de la formation:
 
 #### texte
 - importer texte / format de fichier
-- habillage
+- liste
+- tabulateurs
 
 #### composition
 - textes à lire / à voir
@@ -203,7 +204,6 @@ Plan de la formation:
 - règles
 - repères
 - calques
-
 
 
 ### 2.2 composition
