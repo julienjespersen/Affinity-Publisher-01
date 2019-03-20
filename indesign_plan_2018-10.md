@@ -124,8 +124,8 @@ Plan de la formation:
 
 ### 1.2 composition
 #### texte
-- :sun_with_face: :crescent_moon: famille de caractères (avec sérif, sans sérif, …)
-- :sun_with_face: césure et justification (basique)
+- :crescent_moon: famille de caractères (avec sérif, sans sérif, …)
+- césure et justification (basique)
 - style de paragraphe, de caractère
 
 #### images opérations basiques
@@ -137,7 +137,7 @@ Plan de la formation:
 - consistance: couleurs identiques
 - sytèmes de couleurs: RVB, CMJN, Lab, PMS, …
 - couleurs mélangées / couleurs enregistrées
-- :sun_with_face: dégradés
+- dégradés
 
 #### pages
 - règles et repères (commentés)
@@ -152,14 +152,14 @@ Plan de la formation:
 ### 1.3 bonnes pratiques
 
 #### bloc de texte
-- attributs de bloc
+- :sun_with_face: attributs de bloc
 - habillage
 
 #### objet
-- options de fusion
-- effets
-- pipette
-- aspect par défaut
+- :sun_with_face: options de fusion
+- :sun_with_face: effets
+- :sun_with_face: pipette
+- :sun_with_face: aspect par défaut
 
 #### page
 - règles et repères (commentés)
@@ -169,8 +169,8 @@ Plan de la formation:
 
 #### texte
 - importer texte / format de fichier
-- liste
-- tabulateurs
+- :sun_with_face: liste
+- :sun_with_face: tabulateurs
 
 #### composition
 - textes à lire / à voir
