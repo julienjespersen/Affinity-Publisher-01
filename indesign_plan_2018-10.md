@@ -193,18 +193,24 @@ Plan de la formation:
 - polygones
 - opérations booléennes (pathfinder)
 - courbes de bézier (nœuds, segments)
+- nœuds (point directeur): sommet, symétrie, inflexion
 
 #### images
 - mode de l’image (raster, vectoriel)
 - info fichiers liés
 - résolution
 - chemin
+- niveaux de gris
+
+#### illustrations vectorielles
+- importation
+- copier / coller
+- éditer les nœuds
 
 #### interface
 - règles
 - repères
 - calques
-
 
 ### 2.2 composition
 
