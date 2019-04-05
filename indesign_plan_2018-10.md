@@ -152,14 +152,14 @@ Plan de la formation:
 ### 1.3 bonnes pratiques
 
 #### bloc de texte
-- :sun_with_face: attributs de bloc
+- attributs de bloc
 - habillage
 
 #### objet
-- :sun_with_face: options de fusion
-- :sun_with_face: effets
+- options de fusion
+- effets
 - :sun_with_face: pipette
-- :sun_with_face: aspect par défaut
+- aspect par défaut
 
 #### page
 - règles et repères (commentés)
@@ -197,10 +197,12 @@ Plan de la formation:
 
 #### images
 - mode de l’image (raster, vectoriel)
-- info fichiers liés
-- résolution
-- chemin
-- niveaux de gris
+- couche alpha
+- :sun_with_face: habillage selon détourage (clipping path)
+- :sun_with_face: :crescent_moon: info fichiers liés
+- :sun_with_face: :crescent_moon: résolution
+- :sun_with_face: :crescent_moon: chemin
+- :sun_with_face: :crescent_moon: niveaux de gris
 
 #### illustrations vectorielles
 - importation
@@ -212,6 +214,10 @@ Plan de la formation:
 - repères
 - calques
 
+#### manipulations
+- objets ancrés / blocs dans le flux
+- vectorisation de texte
+
 ### 2.2 composition
 
 #### composition
@@ -219,13 +225,10 @@ Plan de la formation:
 - texte
 - image ?
 - couleur(s)
-- blocs dans le flux
 - tableau
 - repères / règles
 
 #### images
-- couche alpha
-- habillage selon détourage (clipping path)
 - compression (destructive, préservative)
 - mise à jour
 - performance d'affichage
@@ -241,10 +244,11 @@ Plan de la formation:
 - veuves-orphelines
 - importation / récupération des styles
 - alinéa (négatif)
+- lettrine
 - espaces avant / après
 - lignes solidaires / début du para.
 - approche
-- grille
+- grille ligne de base
 - rechercher / remplacer (grep?)
 
 
@@ -253,6 +257,7 @@ Plan de la formation:
 - synthèse additive RGB / soustractive CMYK
 - couleurs visibles, pourquoi
 - symbolique des couleurs
+
 #### automatisation production
 - mise à l'échelle de documents
 - document multi formats
@@ -264,7 +269,6 @@ Plan de la formation:
 - importation indd dans indd
 - style suivant, automatisation
 - notes en bas de pages / fin d'article
-- lettrine
 
 #### enregistrement et exportation
 - enregistrement .idml
