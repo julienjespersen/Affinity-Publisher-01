@@ -124,7 +124,7 @@ Plan de la formation:
 
 ### 1.2 composition
 #### texte
-- :crescent_moon: famille de caractères (avec sérif, sans sérif, …)
+- famille de caractères (avec sérif, sans sérif, …)
 - césure et justification (basique)
 - style de paragraphe, de caractère
 
@@ -142,11 +142,11 @@ Plan de la formation:
 #### pages
 - règles et repères (commentés)
 - marges
-- :sun_with_face: :crescent_moon: calques
+- calques
 
 #### objets
-- :sun_with_face: :crescent_moon:  mode de fusion
-- :sun_with_face: :crescent_moon: effets
+- mode de fusion
+- effets
 
 
 ### 1.3 bonnes pratiques
@@ -158,7 +158,7 @@ Plan de la formation:
 #### objet
 - options de fusion
 - effets
-- :sun_with_face: pipette
+- pipette
 - aspect par défaut
 
 #### page
@@ -169,8 +169,8 @@ Plan de la formation:
 
 #### texte
 - importer texte / format de fichier
-- :sun_with_face: liste
-- :sun_with_face: tabulateurs
+- liste
+- tabulateurs
 
 #### composition
 - textes à lire / à voir
@@ -198,11 +198,11 @@ Plan de la formation:
 #### images
 - mode de l’image (raster, vectoriel)
 - couche alpha
-- :sun_with_face: habillage selon détourage (clipping path)
-- :sun_with_face: :crescent_moon: info fichiers liés
-- :sun_with_face: :crescent_moon: résolution
-- :sun_with_face: :crescent_moon: chemin
-- :sun_with_face: :crescent_moon: niveaux de gris
+- habillage selon détourage (clipping path)
+- info fichiers liés
+- résolution
+- chemin
+- niveaux de gris
 
 #### illustrations vectorielles
 - importation
