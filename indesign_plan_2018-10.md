@@ -107,8 +107,6 @@ Plan de la formation:
 #### saisie de texte
 - bloc: sélection contenant/contenu
 - copier-coller contenant/contenu
-- caractères invisibles
-- attributs de caractères/paragraphe de base
 
 #### blocs
 - bloc texte/image
@@ -128,6 +126,8 @@ Plan de la formation:
 
 #### texte
 - famille de caractères (avec sérif, sans sérif, …)
+- caractères invisibles
+- attributs de caractères/paragraphe de base
 - césure et justification (basique)
 - style de paragraphe, de caractère
 
@@ -150,6 +150,9 @@ Plan de la formation:
 #### objets
 - mode de fusion
 - effets
+
+#### enregistrement exportation
+- exporter .pdf .jpg
 
 ### 1.3 composition multi page
 #### page
