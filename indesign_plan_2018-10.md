@@ -98,7 +98,9 @@ Plan de la formation:
 - pallettes outils, fenêtres
 
 #### objet
+- création
 - sélection simple
+- déplacement (dans/hors du format)
 - poignées
 - attributs: fond/contour
 
@@ -112,17 +114,18 @@ Plan de la formation:
 - bloc texte/image
 - notion: contenant - contenu
 
+#### enregistrement exportation
+- enregistrer .indd
+- exporter .pdf
+
+### 1.2 composition
+
 #### agencement des blocs
 - empilement
 - alignement / distribution / espacement
 - groupe
 - notion: sélection, sélection multiple et discontinue
 
-#### enregistrement exportation
-- enregistrer .indd
-- exporter .pdf
-
-### 1.2 composition
 #### texte
 - famille de caractères (avec sérif, sans sérif, …)
 - césure et justification (basique)
@@ -148,8 +151,15 @@ Plan de la formation:
 - mode de fusion
 - effets
 
+### 1.3 composition multi page
+#### page
+- règles et repères (commentés)
+- élements récurents
+- gabarits
+- numéros de page
 
-### 1.3 bonnes pratiques
+
+### 1.4 bonnes pratiques
 
 #### bloc de texte
 - attributs de bloc
@@ -160,12 +170,6 @@ Plan de la formation:
 - effets
 - pipette
 - aspect par défaut
-
-#### page
-- règles et repères (commentés)
-- élements récurents
-- gabarits
-- numéros de page
 
 #### texte
 - importer texte / format de fichier
@@ -182,7 +186,6 @@ Plan de la formation:
 #### enregistrement exportation
 - assemblage (+ archive)
 - exportation .pdf .png .jpg
-
 
 
 2 InDesign (intermédiaire)
