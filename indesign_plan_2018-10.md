@@ -110,6 +110,7 @@ Plan de la formation:
 
 #### blocs
 - bloc texte/image
+- empilement
 - notion: contenant - contenu
 
 #### enregistrement exportation
@@ -119,7 +120,6 @@ Plan de la formation:
 ### 1.2 composition
 
 #### agencement des blocs
-- empilement
 - alignement / distribution / espacement
 - groupe
 - notion: sélection, sélection multiple et discontinue
@@ -160,7 +160,6 @@ Plan de la formation:
 - élements récurents
 - gabarits
 - numéros de page
-
 
 ### 1.4 bonnes pratiques
 
