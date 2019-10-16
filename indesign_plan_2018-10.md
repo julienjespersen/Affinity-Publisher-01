@@ -84,6 +84,7 @@ Plan de la formation:
 1 InDesign (débutant)
 ============================================
 
+
 ### 1.1 introduction
 
 #### prise en mains
@@ -121,6 +122,7 @@ Plan de la formation:
 - enregistrer .indd
 - exporter .pdf
 
+
 ### 1.2 composition
 
 #### agencement des blocs
@@ -135,12 +137,10 @@ Plan de la formation:
 - césure et justification (basique)
 - style de paragraphe, de caractère
 
-#### organiser les couleurs
+#### créer des couleurs
 - nommer les nuances
-- consistance: couleurs identiques
-- sytèmes de couleurs: RVB, CMJN, Lab, PMS, …
+- sytèmes de couleurs: RVB, CMJN
 - couleurs mélangées / couleurs enregistrées
-- dégradés
 
 #### pages
 - règles et repères (commentés)
@@ -148,6 +148,7 @@ Plan de la formation:
 
 #### enregistrement exportation
 - exporter .pdf .jpg
+
 
 ### 1.3 composition multi page
 
@@ -161,6 +162,7 @@ Plan de la formation:
 #### objets
 - mode de fusion
 - effets
+
 
 ### 1.4 bonnes pratiques
 
@@ -178,6 +180,10 @@ Plan de la formation:
 - importer texte / format de fichier
 - liste
 - tabulateurs
+
+### organiser les couleurs
+- consistance: couleurs identiques
+- dégradés
 
 #### composition
 - textes à lire / à voir
@@ -261,6 +267,7 @@ Plan de la formation:
 ### 2.3 Bonnes pratiques
 #### théorie des couleurs
 - synthèse additive RGB / soustractive CMYK
+- sytèmes de couleurs: RVB, CMJN, Lab, PMS, …
 - couleurs visibles, pourquoi
 - symbolique des couleurs
 
