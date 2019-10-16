@@ -100,7 +100,7 @@ Plan de la formation:
 
 #### objet
 - création
-- sélection simple
+- sélection simple, sélection multiple et discontinue
 - déplacement (dans/hors du format)
 - poignées
 - attributs: fond/contour
@@ -128,7 +128,10 @@ Plan de la formation:
 #### agencement des blocs
 - alignement / distribution / espacement
 - groupe
-- notion: sélection, sélection multiple et discontinue
+
+#### créer des couleurs
+- nommer les nuances
+- sytèmes de couleurs: RVB, CMJN
 
 #### texte
 - famille de caractères (avec sérif, sans sérif, …)
@@ -137,23 +140,11 @@ Plan de la formation:
 - césure et justification (basique)
 - style de paragraphe, de caractère
 
-#### créer des couleurs
-- nommer les nuances
-- sytèmes de couleurs: RVB, CMJN
-- couleurs mélangées / couleurs enregistrées
-
-#### pages
-- règles et repères (commentés)
-- marges
-
-#### enregistrement exportation
-- exporter .pdf .jpg
-
-
 ### 1.3 composition multi page
 
 #### page
 - règles et repères (commentés)
+- marges
 - élements récurents
 - gabarits
 - numéros de page
@@ -162,6 +153,9 @@ Plan de la formation:
 #### objets
 - mode de fusion
 - effets
+
+#### enregistrement exportation
+- exporter .pdf .jpg
 
 
 ### 1.4 bonnes pratiques
@@ -183,6 +177,7 @@ Plan de la formation:
 
 ### organiser les couleurs
 - consistance: couleurs identiques
+- couleurs mélangées / couleurs enregistrées
 - dégradés
 
 #### composition
