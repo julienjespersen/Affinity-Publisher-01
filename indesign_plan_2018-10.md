@@ -113,6 +113,10 @@ Plan de la formation:
 - empilement
 - notion: contenant - contenu
 
+#### images opérations basiques
+- importer
+- manipuler
+
 #### enregistrement exportation
 - enregistrer .indd
 - exporter .pdf
@@ -131,10 +135,6 @@ Plan de la formation:
 - césure et justification (basique)
 - style de paragraphe, de caractère
 
-#### images opérations basiques
-- importer
-- manipuler
-
 #### organiser les couleurs
 - nommer les nuances
 - consistance: couleurs identiques
@@ -145,21 +145,22 @@ Plan de la formation:
 #### pages
 - règles et repères (commentés)
 - marges
-- calques
-
-#### objets
-- mode de fusion
-- effets
 
 #### enregistrement exportation
 - exporter .pdf .jpg
 
 ### 1.3 composition multi page
+
 #### page
 - règles et repères (commentés)
 - élements récurents
 - gabarits
 - numéros de page
+- calques
+
+#### objets
+- mode de fusion
+- effets
 
 ### 1.4 bonnes pratiques
 
