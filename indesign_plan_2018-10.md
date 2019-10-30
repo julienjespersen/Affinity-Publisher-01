@@ -148,7 +148,6 @@ Plan de la formation:
 - élements récurents
 - gabarits
 - numéros de page
-- calques
 
 #### objets
 - mode de fusion
@@ -234,6 +233,7 @@ Plan de la formation:
 - couleur(s)
 - tableau
 - repères / règles
+- calques
 
 #### images
 - compression (destructive, préservative)
