@@ -166,13 +166,9 @@ Plan de la formation:
 #### objet
 - options de fusion
 - effets
-- pipette
-- aspect par défaut
 
 #### texte
 - importer texte / format de fichier
-- liste
-- tabulateurs
 
 ### organiser les couleurs
 - consistance: couleurs identiques
@@ -200,6 +196,8 @@ Plan de la formation:
 - opérations booléennes (pathfinder)
 - courbes de bézier (nœuds, segments)
 - nœuds (point directeur): sommet, symétrie, inflexion
+- pipette
+- aspect par défaut
 
 #### images
 - mode de l’image (raster, vectoriel)
@@ -257,6 +255,8 @@ Plan de la formation:
 - approche
 - grille ligne de base
 - rechercher / remplacer (grep?)
+- liste
+- tabulateurs
 
 
 ### 2.3 Bonnes pratiques
