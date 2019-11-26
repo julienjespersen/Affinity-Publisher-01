@@ -21,4 +21,12 @@ num de page
 titre de l'œuvre
 auteur
 
+notion à savoir:
+find and replace
+espace insécable
 
+options d'enchaînement
+
+caractère fin de para vs saut de ligne
+
+lignes solidaires
