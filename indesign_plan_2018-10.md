@@ -8,22 +8,22 @@ https://unige.ch/dife/culture/cours/image/indesign
 Plan de la formation:
 
 ```
-0 Indesign et Photoshop:
-│ Interface de travail [2h.]
+0 Affinity:
+│ Interface de travail, notions de bases et transversales à Affinity Photo, Designer et Publisher [2h.]
 │
-├── 1 Indesign: 
+├── 1 Affinity Publisher 01: 
 │   │ niveau débutant [6h.]          
 │   │
-│   └── 2 Indesign: 
+│   └── 2 Affinity Publisher 02: 
 │       │ niveau intermédiaire [6h.]
 │       │
 │       └───────────────────────────────┐
 │                                       │
-├── 1 Photoshop:                        │
+├── 1 Affinity Photo 01:                │
 │   │ Développement de                  │
 │   │ l'image numérique [15h.]          │
 │   │                                   │
-│   └── 2 Photoshop:                    │
+│   └── 2 Affinity Photo 02:            │
 │       │ Traitement et manipulation    │
 │       │ de l'image numérique [15h.]   │
 │       │                               │
@@ -33,12 +33,12 @@ Plan de la formation:
     | Illustration numérique [4h]       |
     |                                   |
     └───────────────────────────────────┤
-                                        └─ 3 Indesign, Photoshop et Affinity Designer: 
-                                             Réalisation de projets [4h.]
+                                        └─ 3 Passerelle de Affinity vers Adobe: 
+                                             Passerelle vers InDesign [2h.]
 
 ```
 
-0 Interface logicielle (débutant)
+0 Affinity interface logicielle (débutant)
 ============================================
 
 ### 0.1 grammaire d'une action
@@ -81,7 +81,7 @@ Plan de la formation:
 - retrouver et ouvrir le fichier
 
 
-1 InDesign (débutant)
+1 Affinity Publisher 01 (débutant)
 ============================================
 
 
@@ -187,7 +187,7 @@ Plan de la formation:
 - exportation .pdf .png .jpg
 
 
-2 InDesign (intermédiaire)
+2 Affinity Publisher 02 (intermédiaire)
 ==========================
 
 ### 2.1 images, couleurs
@@ -223,7 +223,6 @@ Plan de la formation:
 - vectorisation de texte
 
 ### 2.2 composition
-
 #### composition
 - gabarits, liés
 - texte
@@ -243,8 +242,9 @@ Plan de la formation:
 #### texte
 - texte placé, texte lié
 - styles liés, imbriqués
+- numérotation section
 - table des matières
-- justification
+- justification (avancée)
 - césure (dict.)
 - veuves-orphelines
 - importation / récupération des styles
@@ -257,6 +257,8 @@ Plan de la formation:
 - rechercher / remplacer (grep?)
 - liste
 - tabulateurs
+- options d'enchaîenement
+- rechercher-remplacer
 
 
 ### 2.3 Bonnes pratiques
@@ -267,47 +269,20 @@ Plan de la formation:
 - symbolique des couleurs
 
 #### automatisation production
-- mise à l'échelle de documents
-- document multi formats
 - taux d'encrage
 - séparation
 - noirs (riche)
-- paramètres de défonce, "noyade"
-- source de données tabulaires, automatisation
-- importation indd dans indd
+- importation AfPublisher dans AfPublisher
 - style suivant, automatisation
 - notes en bas de pages / fin d'article
 
 #### enregistrement et exportation
-- enregistrement .idml
+- enregistrer et collecter
 - exporter offset / web (profils + normes)
-
-3 InDesign projet
-==========================
-…
-
-
-InDesign (avancé)
-==========================
 
 #### qualité
 - contrôle en amont
-- taux d'encrage
 - encres
-- affichage en couleurs simulées
-- profils col.
-- dictionnaire de césure perso.
-- mono/bi chrome (duotone)
-
-#### automatisation production
-- fusion des données
-- rechercher-remplacer
-- variables de texte
-
-#### document
-- table des matières
-- numérotation section
-- justification (avancée)
-- veuves-orphelines
-- options d'enchaîenement
+- profils colorimétriques
+- dictionnaire de césure personnalisé
 
