@@ -10,4 +10,4 @@ Plan de cours sur **Affinity Publsher**. Donné dans le cadre des Activités cul
 https://unige.ch/dife/culture/cours/image/affinity-publisher
 
 
-Plan du cours: https://github.com/julienjespersen/indesign/blob/master/indesign_plan_2018-10.md
+Plan du cours: https://github.com/julienjespersen/Affinity-Publisher-01/blob/master/affinity-publisher_plan_2020-10.md
