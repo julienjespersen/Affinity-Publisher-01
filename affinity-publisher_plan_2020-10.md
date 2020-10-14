@@ -126,6 +126,7 @@ Plan de la formation:
 ### 1.2 composition
 
 #### agencement des blocs
+- créer des objets: copier-coller, à la voléé, duplication
 - alignement / distribution / espacement
 - groupe
 
