@@ -151,7 +151,7 @@ Plan de la formation:
 - numéros de page
 
 #### objets
-- mode de fusion
+- mode de fusion / combinaison
 - effets
 
 #### enregistrement exportation
