@@ -1,3 +1,7 @@
+# Affinity Publisher
+
+## Graphisme et composition, identique à InDesign
+
 Ce cours est l’occasion de vous initier à la mise en page avec **Affinity Publisher** – même catégorie qu’**Adobe InDesign**. Entre théorie et pratique, il vous permettra de comprendre les notions de base et d’approfondir les principes de la mise en page pour réaliser vos propres compositions. Des exercices dirigés vous seront proposés tout au long des séances.
 
 ## Programme
