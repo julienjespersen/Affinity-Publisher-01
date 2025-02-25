@@ -9,7 +9,7 @@ Ce cours est l’occasion de vous initier à la mise en page avec **Affinity Pub
 - Interface logiciel
 - Création et modification d’objets
 - Composition simple
-- Enregistrment et exportation
+- Enregistrement et exportation
 
 ### Mise en page de texte, composition multi pages
 - Marges et colonnes
